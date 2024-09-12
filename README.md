@@ -1,5 +1,5 @@
 # Apostolou Vasileios Evaggelos 
-## Data Science Portfolio
+## Resume
 #### Technical Skills: Python,C,Excel,Java 
 ##### _Athens, Glyfada_
 ##### _Phone number: 6979159392_
