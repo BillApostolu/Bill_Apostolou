@@ -4,7 +4,7 @@
 ##### _Athens, Glyfada_
 ##### _Phone number: 6979159392_
 ##### _e-mail: billi5889@gmail.com_
-### https://github.com/BillApostolu/billapostolou.github.com 
+#### https://github.com/BillApostolu/billapostolou.github.com 
 ## Education	        		
 - B.S., Physics | 4-year major’s degree in Physics from the department of Physics in the National Kapodistrian University of Athens (NKUA) _Period of attendance: 09/2019 – 06/2024_
 
