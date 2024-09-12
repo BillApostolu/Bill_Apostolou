@@ -1,9 +1,12 @@
-#Apostolou Vasileios Evaggelos 
-#Data Science Portfolio
-###Athens, Glyfada
-###6979159392
-###billi5889@gmail.com
-##https://github.com/BillApostolu/billapostolou.github.com 
+# Data Scientist
+
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+Apostolou Vasileios Evaggelos 
+Data Science Portfolio
+Athens, Glyfada
+6979159392
+billi5889@gmail.com
+https://github.com/BillApostolu/billapostolou.github.com 
 ________________________________________
 Objective
 Motivated physics major particularly interested in atmospheric physics, modeling,  machine learning and data analysis. Having completed a demanding degree from the prestigious department of Physics in the National Kapodistrian University of Athens (NKUA), acquiring knowledge, managing data and solving problems in fields like statistics, hydrodynamics, atmospheric physics and dynamics, computational physics and renewable energies, I am ready to gain experience in the sector of data analytics and programming, aiming at developing modeling programs and broadening my knowledge of the industry.
