@@ -22,20 +22,17 @@
 ## Certifications & Awards
 - Big Data Analytics Certification – University of Patras, EKEK e-studies _(certification pending)_
 ## Volunteer Experience 
-**Firefighter Volunteer** _(certification pending)_
-### ΕΔΑΠΥΓ (EDAPYG), GLYFADA, ATHENS 2019-2021
+### Firefighter Volunteer 
+### ΕΔΑΠΥΓ (EDAPYG), GLYFADA, ATHENS _2019-2021_ _(certification pending)_ 
 #### Responsibilities and developed skills: 
 - Trainings in first aid. 
 - Trainings in extinguishing agroforestry fires with great efficiency. 
 - Collaboration with colleagues at levels of high trust, in order to avoid accidents and increasing efficiency.
 - Risk and danger management.
-
-**Soldier** _(certification and recommendation letter pending)_
-### Successful military training at Hellenic Armed Forces during my 12-month service 2023-2024
+### Soldier 
+### Successful military training at Hellenic Armed Forces during my 12-month service _2023-2024_ _(certification and recommendation letter pending)_
 #### Responsibilities and developed skills: 
 - Selected to work as a secretary at the security and guard battalion of the Greek Pentagon
 - Management and distribution of high security and redacted files
 - Assigned and pulled off a very team driven role taking ownership of any tasks given to me with great efficiency.
 - Got honorable promotion to the rank of corporal 
-
-
