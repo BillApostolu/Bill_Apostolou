@@ -29,6 +29,7 @@
 - Trainings in extinguishing agroforestry fires with great efficiency. 
 - Collaboration with colleagues at levels of high trust, in order to avoid accidents and increasing efficiency.
 - Risk and danger management.
+
 **Soldier** _(certification and recommendation letter pending)_
 ### Successful military training at Hellenic Armed Forces during my 12-month service 2023-2024
 #### Responsibilities and developed skills: 
