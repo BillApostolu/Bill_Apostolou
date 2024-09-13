@@ -7,7 +7,7 @@
 ##### Phone number: 6979159392
 
 ## Education	        		
-- B.S., Physics (240 ECTS) | National Kapodistrian University of Athens (NKUA) _(recommendation letter pending)_ _Period of attendance: 09/2019 – 06/2024 _
+- B.S., Physics (240 ECTS) | National Kapodistrian University of Athens (NKUA) _(recommendation letter pending)_ _Period of attendance: 09/2019 – 06/2024_
 
 ## Objective
 - Motivated physics major in the direction of environmental physics and renewable energy sources, particularly interested in atmospheric physics, renewable energies, modeling,  machine learning and data analysis. Having completed a demanding degree from the prestigious department of Physics in the National Kapodistrian University of Athens (NKUA), acquiring knowledge, managing data and solving problems in fields like statistics, hydrodynamics, atmospheric physics and dynamics, computational physics and renewable energies, I am ready to gain experience in the sector of data analytics and programming, aiming at developing modeling programs and broadening my knowledge of the industry.
