@@ -2,23 +2,51 @@
 ## Apostolou Vasileios Evaggelos 
 #### github: https://github.com/BillApostolu
 ##### e-mail: billi5889@gmail.com
-##### Current location: Athens, Glyfada
-##### Phone number: 6979159392
+##### Adress:  Glyfada, Athens, Greece
+##### Phone: 6979159392
+
+## Objective
+- Physics graduate specialized in environmental physics and renewable energy. Experienced in atmospheric physics, renewable energies, data modeling, machine learning, and data analysis. With a degree from the prestigious National Kapodistrian University of Athens (NKUA), I am seeking opportunities to apply my skills in data analytics and programming, focusing on developing modeling programs and expanding my knowledge in the renewable energy sector.
 
 ## Education	        		
 - B.S., Physics (240 ECTS) | National Kapodistrian University of Athens (NKUA) _(recommendation letter pending)_ _Period of attendance: 09/2019 – 06/2024_
 
-## Objective
-- Motivated physics major in the direction of environmental physics and renewable energy sources, particularly interested in atmospheric physics, renewable energies, modeling,  machine learning and data analysis. Having completed a demanding degree from the prestigious department of Physics in the National Kapodistrian University of Athens (NKUA), acquiring knowledge, managing data and solving problems in fields like statistics, hydrodynamics, atmospheric physics and dynamics, computational physics and renewable energies, I am ready to gain experience in the sector of data analytics and programming, aiming at developing modeling programs and broadening my knowledge of the industry.
-
 ## Relevant Coursework:
+•	Analysis
+•	Statistics
+•	Hydrodynamics
+•	Electronics
+•	Atmospheric Physics
+•	Computational Physics
+•	Renewable Energies and Energy Planning
+
 #### Thesis: Heat risk assessment for cities in Greece. 
-- In this thesis, a study was carried out with the aim of finding and evaluating thermal risk in cities. Four indicators were used to find the thermal risk. Specifically, these indices are related to land surface temperature LST, vegetation NDVI, population, and warmest month mean maximum temperature. The results of the four indicators were grouped using the K-means algorithm, assigning the thermal risk to five to seven classes, depending on the intensity of the thermal risk. In addition, these classes were associated with local climate zones, and for each zone characteristic values of the parameters that make up the thermal risk were extracted. The results can be used in studies of adaptation of cities to climate change.
+- A study aimed at evaluating thermal risk in urban areas using four indicators: Land Surface Temperature (LST), Normalized Difference Vegetation Index (NDVI), population density, and maximum temperatures during the warmest month. Using the K-means algorithm, the thermal risk was categorized into five to seven classes and analyzed across local climate zones. The findings support the adaptation of cities to climate change.
 - Github repository for my thesis: https://github.com/BillApostolu/B.S.Thesis
+
 ## Skillset
-#### Technical Skills: Python, C, Excel, Java, Machine Learning
-#### General Skills: Problem solving, Risk assessment, Analytical Skills, Renewable Energy Systems, Computational Physics 
-#### Languages:  Greek (Native Language), English (Proficiency Level), French (B2 Level)
+#### Technical Skills:
+•	Python
+•	C
+•	Java
+•	Excel
+
+#### Scientific Skills:
+•	Machine Learning
+•	Data Analysis
+•	Renewable Energy Systems
+•	Computational Physics
+
+#### General Skills: 
+•	Problem Solving
+•	Risk Assessment
+•	Analytical Skills
+
+#### Languages:  
+•	Greek (Native)
+•	English (Proficiency)
+•	French (B2)
+
 ## Certifications & Awards
 - Big Data Analytics Certification – University of Patras, EKEK e-studies _(certification pending)_
 ## Volunteer Experience 
@@ -35,4 +63,9 @@
 - Selected to work as a secretary at the security and guard battalion of the Greek Pentagon
 - Management and distribution of high security and redacted files
 - Assigned and pulled off a very team driven role taking ownership of any tasks given to me with great efficiency.
-- Got honorable promotion to the rank of corporal 
+- Got honorable promotion to the rank of corporal
+### Physics and Math tutoring 
+#### Responsibilities and developed skills:
+- Transfer of knowledge and skills to high school students in the fields of mathematics and physics.
+- Cooperating with students and encouraging them to solve multiple problems.
+
