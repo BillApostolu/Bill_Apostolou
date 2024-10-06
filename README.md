@@ -12,13 +12,13 @@
 - B.S., Physics (240 ECTS) | National Kapodistrian University of Athens (NKUA) _(recommendation letter pending)_ _Period of attendance: 09/2019 – 06/2024_
 
 ## Relevant Coursework:
-•	Analysis
-•	Statistics
-•	Hydrodynamics
-•	Electronics
-•	Atmospheric Physics
-•	Computational Physics
-•	Renewable Energies and Energy Planning
+-	Analysis
+-	Statistics
+-	Hydrodynamics
+-	Electronics
+-	Atmospheric Physics
+-	Computational Physics
+-	Renewable Energies and Energy Planning
 
 #### Thesis: Heat risk assessment for cities in Greece. 
 - A study aimed at evaluating thermal risk in urban areas using four indicators: Land Surface Temperature (LST), Normalized Difference Vegetation Index (NDVI), population density, and maximum temperatures during the warmest month. Using the K-means algorithm, the thermal risk was categorized into five to seven classes and analyzed across local climate zones. The findings support the adaptation of cities to climate change.
@@ -26,26 +26,26 @@
 
 ## Skillset
 #### Technical Skills:
-•	Python
-•	C
-•	Java
-•	Excel
+-	Python
+-	C
+- Java
+-	Excel
 
 #### Scientific Skills:
-•	Machine Learning
-•	Data Analysis
-•	Renewable Energy Systems
-•	Computational Physics
+-	Machine Learning
+-	Data Analysis
+-	Renewable Energy Systems
+-	Computational Physics
 
 #### General Skills: 
-•	Problem Solving
-•	Risk Assessment
-•	Analytical Skills
+-	Problem Solving
+-	Risk Assessment
+-	Analytical Skills
 
 #### Languages:  
-•	Greek (Native)
-•	English (Proficiency)
-•	French (B2)
+-	Greek (Native)
+-	English (Proficiency)
+-	French (B2)
 
 ## Certifications & Awards
 - Big Data Analytics Certification – University of Patras, EKEK e-studies _(certification pending)_
@@ -62,7 +62,7 @@
 #### Responsibilities and developed skills: 
 - Selected to work as a secretary at the security and guard battalion of the Greek Pentagon
 - Management and distribution of high security and redacted files
-- Assigned and pulled off a very team driven role taking ownership of any tasks given to me with great efficiency.
+- Assigned and pulled off a very team driven role taking ownership of any tasks given to me with great efficiency
 - Got honorable promotion to the rank of corporal
 ### Physics and Math tutoring 
 #### Responsibilities and developed skills:
