@@ -1,7 +1,7 @@
 # Resume
 ## Apostolou Vasileios Evaggelos 
 #### github: https://github.com/BillApostolu
-##### e-mail: billi5889@gmail.com
+##### e-mail: apostoloubill14@gmail.com
 ##### Adress:  Glyfada, Athens, Greece
 ##### Phone: 6979159392
 
