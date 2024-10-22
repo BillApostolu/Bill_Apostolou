@@ -3,7 +3,7 @@
 #### github: https://github.com/BillApostolu
 ##### e-mail: apostoloubill14@gmail.com
 ##### Adress:  Glyfada, Athens, Greece
-##### Phone: 6979159392
+##### Phone: +306979159392
 
 ## Objective
 - Physics graduate specialized in environmental physics and renewable energy. Experienced in atmospheric physics, renewable energies, data modeling, machine learning, and data analysis. With a degree from the prestigious National Kapodistrian University of Athens (NKUA), I am seeking opportunities to apply my skills in data analytics and programming, focusing on developing modeling programs and expanding my knowledge in the renewable energy sector.
