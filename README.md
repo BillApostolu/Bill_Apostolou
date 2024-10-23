@@ -9,8 +9,8 @@
 - Physics graduate specialized in environmental physics and renewable energy. Experienced in atmospheric physics, renewable energies, data modeling, machine learning, and data analysis. With a degree from the prestigious National Kapodistrian University of Athens (NKUA), I am seeking opportunities to apply my skills in data analytics and programming, focusing on developing modeling programs and expanding my knowledge in the renewable energy sector.
 
 ## Education	        		
-- B.S., Physics (240 ECTS) | National Kapodistrian University of Athens (NKUA)|*GPA: 7.43*
-   _(recommendation letter pending)_ _Period of attendance: 09/2019 – 06/2024_
+- B.S., Physics (240 ECTS) | National Kapodistrian University of Athens (NKUA) | *GPA: 7.43*
+_(recommendation letter pending)_ _Period of attendance: 09/2019 – 06/2024_
 
 ## Relevant Coursework:
 -	Analysis
