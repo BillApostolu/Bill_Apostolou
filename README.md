@@ -25,6 +25,9 @@ _(recommendation letter pending)_ _Period of attendance: 09/2019 – 06/2024_
 - A study aimed at evaluating thermal risk in urban areas using four indicators: Land Surface Temperature (LST), Normalized Difference Vegetation Index (NDVI), population density, and maximum temperatures during the warmest month. Using the K-means algorithm, the thermal risk was categorized into five to seven classes and analyzed across local climate zones. The findings support the adaptation of cities to climate change.
 - Github repository for my thesis: https://github.com/BillApostolu/B.S.Thesis
 
+## Current occupation
+- I'm currently doing my practise in the Hellenic Centre for Marine Research (ΕΛΚΕΘΕ). I am specifically preparing a scientific paper, in collaboration with the director of the scientific department of ΕΛΚΕΘΕ, Mr. Soukissian Takvor, in which we will try to understand which model of global big data is more precise for the environment of the Mediterrenean sea regarding wind speed, density and others, between CERRA, ERA5, MERRA and satellite data. After its publication this paper can be used by companies of the renewables industry, for example, for the creation of offshore wind parks.
+
 ## Skillset
 #### Technical Skills:
 -	Python
