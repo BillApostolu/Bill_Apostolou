@@ -1,6 +1,7 @@
 # Resume
 ## Apostolou Vasileios Evaggelos 
 #### github: https://github.com/BillApostolu
+#### linkedin: https://www.linkedin.com/in/bill-apostolou-a38738323/
 ##### e-mail: apostoloubill14@gmail.com
 ##### Adress:  Glyfada, Athens, Greece
 ##### Phone: +306979159392
@@ -10,7 +11,7 @@
 
 ## Education	        		
 - B.S., Physics (240 ECTS) | National Kapodistrian University of Athens (NKUA) | *GPA: 7.43*
-_(recommendation letter pending)_ _Period of attendance: 09/2019 – 06/2024_
+_(recommendation letters)_ _Period of attendance: 09/2019 – 06/2024_
 
 ## Relevant Coursework:
 -	Analysis
@@ -20,17 +21,16 @@ _(recommendation letter pending)_ _Period of attendance: 09/2019 – 06/2024_
 -	Atmospheric Physics
 -	Computational Physics
 -	Renewable Energies and Energy Planning
+-	GIS Systems
 
 #### Thesis: Heat risk assessment for cities in Greece. 
 - A study aimed at evaluating thermal risk in urban areas using four indicators: Land Surface Temperature (LST), Normalized Difference Vegetation Index (NDVI), population density, and maximum temperatures during the warmest month. Using the K-means algorithm, the thermal risk was categorized into five to seven classes and analyzed across local climate zones. The findings support the adaptation of cities to climate change.
 - Github repository for my thesis: https://github.com/BillApostolu/B.S.Thesis
 
-## Current occupation
-- I'm currently doing my practise in the Hellenic Centre for Marine Research (ΕΛΚΕΘΕ). I am specifically preparing a scientific paper, in collaboration with the director of the scientific department of ΕΛΚΕΘΕ, Mr. Soukissian Takvor, in which we will try to understand which model of global big data is more precise for the environment of the Mediterrenean sea regarding wind speed, density and others, between CERRA, ERA5, MERRA and satellite data. After its publication this paper can be used by companies of the renewables industry, for example, for the creation of offshore wind parks.
-
 ## Skillset
 #### Technical Skills:
 -	Python
+-	MATLAB
 -	C
 - Java
 -	Excel
@@ -53,7 +53,13 @@ _(recommendation letter pending)_ _Period of attendance: 09/2019 – 06/2024_
 
 ## Certifications & Awards
 - Big Data Analytics Certification – University of Patras, EKEK e-studies _(certification pending)_
-## Volunteer Experience 
+
+## Experience 
+###Big Data Analyst
+**Centre for Marine Research (HCMR)
+  Currently collaborating with the Director of the Scientific Department, Mr. Takvor Soukissian, on the preparation of a scientific paper focused on evaluating the accuracy of global big data models—CERRA, ERA5, MERRA, and satellite data—in the Mediterranean Sea's environmental context, specifically analyzing wind speed, density, and related parameters. The findings aim to support practical applications in the renewable energy sector, including the development of offshore wind farms.
+
+## Volunteer Experience
 ### Firefighter Volunteer 
 **ΕΔΑΠΥΓ (EDAPYG), GLYFADA, ATHENS** _2019-2021_ _(certification pending)_ 
 #### Responsibilities and developed skills: 
