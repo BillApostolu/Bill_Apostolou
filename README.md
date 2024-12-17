@@ -55,8 +55,8 @@ _(recommendation letters)_ _Period of attendance: 09/2019 – 06/2024_
 - Big Data Analytics Certification – University of Patras, EKEK e-studies _(certification pending)_
 
 ## Experience 
-###Big Data Analyst
-**Centre for Marine Research (HCMR)
+### Big Data Analyst
+**Centre for Marine Research (HCMR)**
   Currently collaborating with the Director of the Scientific Department, Mr. Takvor Soukissian, on the preparation of a scientific paper focused on evaluating the accuracy of global big data models—CERRA, ERA5, MERRA, and satellite data—in the Mediterranean Sea's environmental context, specifically analyzing wind speed, density, and related parameters. The findings aim to support practical applications in the renewable energy sector, including the development of offshore wind farms.
 
 ## Volunteer Experience
@@ -68,7 +68,7 @@ _(recommendation letters)_ _Period of attendance: 09/2019 – 06/2024_
 - Collaboration with colleagues at levels of high trust, in order to avoid accidents and increasing efficiency.
 - Risk and danger management.
 ### Soldier 
-**Successful military training at Hellenic Armed Forces during my 12-month service** _2023-2024_ _(certification and recommendation letter pending)_
+**Successful military training at Hellenic Armed Forces during my 12-month service** _2023-2024_ _(certification and recommendation letter in Greek)_
 #### Responsibilities and developed skills: 
 - Selected to work as a secretary at the security and guard battalion of the Greek Pentagon
 - Management and distribution of high security and redacted files
