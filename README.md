@@ -57,7 +57,7 @@ _(recommendation letters)_ _Period of attendance: 09/2019 – 06/2024_
 ## Experience 
 ### Big Data Analyst
 **Centre for Marine Research (HCMR)**
-  Currently collaborating with the Director of the Scientific Department, Mr. Takvor Soukissian, on the preparation of a scientific paper focused on evaluating the accuracy of global big data models—CERRA, ERA5, MERRA, and satellite data—in the Mediterranean Sea's environmental context, specifically analyzing wind speed, density, and related parameters. The findings aim to support practical applications in the renewable energy sector, including the development of offshore wind farms.
+- Currently collaborating with the Director of the Scientific Department, Mr. Takvor Soukissian, on the preparation of a scientific paper focused on evaluating the accuracy of global big data models—CERRA, ERA5, MERRA, and satellite data—in the Mediterranean Sea's environmental context, specifically analyzing wind speed, density, and related parameters. The findings aim to support practical applications in the renewable energy sector, including the development of offshore wind farms.
 
 ## Volunteer Experience
 ### Firefighter Volunteer 
