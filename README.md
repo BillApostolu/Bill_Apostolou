@@ -58,25 +58,23 @@ _(recommendation letters)_ _Period of attendance: 09/2019 – 06/2024_
 ## Experience 
 ### Big Data Analyst
 **Centre for Marine Research (HCMR)**
-- Currently collaborating with the Director of the Scientific Department, Mr. Takvor Soukissian, on the preparation of a scientific paper focused on evaluating the accuracy of global big data models—CERRA, ERA5, MERRA, and satellite data—in the Mediterranean Sea's environmental context, specifically analyzing wind speed, density, and related parameters. The findings aim to support practical applications in the renewable energy sector, including the development of offshore wind farms.
+- Collaborating with the Scientific Director on a paper assessing the accuracy of global data models (CERRA, ERA5, MERRA-2) for Mediterranean Sea wind speed analysis. The findings support offshore wind energy applications.
+### Soldier 
+**Successful military training at Hellenic Armed Forces during my 12-month service** _2023-2024_ _(certification and recommendation letter in Greek)_
+#### Responsibilities and developed skills: 
+- Managed and distributed high-security files at the Greek Pentagon.
+- Selected for a secretarial role in the security and guard battalion
+- Assigned and pulled off a very team driven role taking ownership of any tasks given to me with great efficiency
+### Physics and Math tutoring 
+#### Responsibilities and developed skills:
+- Transfer of knowledge and skills to high school students in the fields of mathematics and physics.
+- Cooperating with students and encouraging them to solve multiple problems.
 
 ## Volunteer Experience
 ### Firefighter Volunteer 
 **ΕΔΑΠΥΓ (EDAPYG), GLYFADA, ATHENS** _2019-2021_ _(certification pending)_ 
 #### Responsibilities and developed skills: 
-- Trainings in first aid. 
-- Trainings in extinguishing agroforestry fires with great efficiency. 
-- Collaboration with colleagues at levels of high trust, in order to avoid accidents and increasing efficiency.
-- Risk and danger management.
-### Soldier 
-**Successful military training at Hellenic Armed Forces during my 12-month service** _2023-2024_ _(certification and recommendation letter in Greek)_
-#### Responsibilities and developed skills: 
-- Selected to work as a secretary at the security and guard battalion of the Greek Pentagon
-- Management and distribution of high security and redacted files
-- Assigned and pulled off a very team driven role taking ownership of any tasks given to me with great efficiency
-- Got honorable promotion to the rank of corporal
-### Physics and Math tutoring 
-#### Responsibilities and developed skills:
-- Transfer of knowledge and skills to high school students in the fields of mathematics and physics.
-- Cooperating with students and encouraging them to solve multiple problems.
+- Provided first aid and firefighting training.
+- Collaborated closely with colleagues to ensure safety and efficiency.
+- Managed risks during agroforestry fire situations.
 
