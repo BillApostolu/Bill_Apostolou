@@ -38,6 +38,7 @@ _(recommendation letters)_ _Period of attendance: 09/2019 – 06/2024_
 #### Scientific Skills:
 -	Machine Learning
 -	Data Analysis
+-	Big Data Analysis
 -	Renewable Energy Systems
 -	Computational Physics
 
