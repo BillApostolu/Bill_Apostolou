@@ -58,7 +58,7 @@ _(recommendation letters)_ _Period of attendance: 09/2019 – 06/2024_
 ## Experience 
 ### Big Data Analyst
 **Centre for Marine Research (HCMR)**
-- Collaborating with the Scientific Director on a paper assessing the accuracy of global data models (CERRA, ERA5, MERRA-2) for Mediterranean Sea wind speed analysis. The findings support offshore wind energy applications.
+- Collaborating with the scientific team on a paper assessing the accuracy of global data models (CERRA, ERA5, MERRA-2) for Mediterranean Sea wind speed analysis. The findings support offshore wind energy applications.
 ### Soldier 
 **Successful military training at Hellenic Armed Forces during my 12-month service** _2023-2024_ _(recommendation letter in Greek)_
 #### Responsibilities and developed skills: 
