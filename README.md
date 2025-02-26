@@ -61,7 +61,7 @@ _(recommendation letters)_ _Period of attendance: 09/2019 – 06/2024_
 - Big Data Analytics Certification – University of Patras, EKEK e-studies _(certification pending)_
 
 ## Experience 
-### Junior Data Analyst
+### Data Scientist Intern
 **Centre for Marine Research (HCMR)**
 - Collaborating with the scientific team on a paper assessing the accuracy of global data models (CERRA, ERA5, MERRA-2) for Mediterranean Sea wind speed analysis. The findings support offshore wind energy applications.
 ### Soldier 
