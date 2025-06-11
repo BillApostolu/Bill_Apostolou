@@ -1,7 +1,7 @@
 # Resume
 ## Apostolou Vasileios Evaggelos 
 #### github: https://github.com/BillApostolu
-#### linkedin: https://www.linkedin.com/in/bill-apostolou-a38738323/
+#### linkedin: http://www.linkedin.com/in/vasileios-evaggelos-apostolou-a38738323
 ##### e-mail: apostoloubill14@gmail.com
 ##### Adress:  Glyfada, Athens, Greece
 ##### Phone: +306979159392
@@ -61,7 +61,7 @@ _(recommendation letters)_ _Period of attendance: 09/2019 – 06/2024_
 - Big Data Analytics Certification – University of Patras, EKEK e-studies _(certification pending)_
 
 ## Experience 
-### Data Scientist Intern
+### Junior Research Associate
 **Centre for Marine Research (HCMR)**
 - Collaborating with the scientific team on a paper assessing the accuracy of global data models (CERRA, ERA5, MERRA-2) for Mediterranean Sea wind speed analysis. The findings support offshore wind energy applications.
 ### Soldier 
